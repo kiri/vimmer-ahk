@@ -18,4 +18,3 @@ IME_SET(SetSts, WinTitle="A")    {
 
 ~Esc::IME_SET(0)
 ~^[::IME_SET(0)
-
